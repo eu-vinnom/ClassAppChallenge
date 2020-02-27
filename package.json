@@ -1,0 +1,24 @@
+{
+  "name": "classappchallenge",
+  "version": "1.0.0",
+  "description": "A challenge seeking to reveal code skills. A Node.js program will be built aiming to convert a CSV file to JSON",
+  "main": "csv2json.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/eu-vinnom/ClassAppChallenge.git"
+  },
+  "keywords": [
+    "classappchallenge",
+    "challenge",
+    "node"
+  ],
+  "author": "viniciusLSilva",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eu-vinnom/ClassAppChallenge/issues"
+  },
+  "homepage": "https://github.com/eu-vinnom/ClassAppChallenge#readme"
+}
