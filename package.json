@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/eu-vinnom/ClassAppChallenge/issues"
   },
-  "homepage": "https://github.com/eu-vinnom/ClassAppChallenge#readme"
+  "homepage": "https://github.com/eu-vinnom/ClassAppChallenge#readme",
+  "dependencies": {
+    "lodash": "^4.17.15"
+  }
 }
