@@ -4,7 +4,7 @@ const PNF = require('google-libphonenumber').PhoneNumberFormat;
 const phoneUtil = require('google-libphonenumber').PhoneNumberUtil.getInstance();
 
 const csvFilePath = 'input.csv';
-const jsonFilePath = 'teste.json';
+const jsonFilePath = 'output.json';
 
 const fileReader = readLines(csvFilePath, fs);
 const lineArray = oneArrayLines(fileReader);
