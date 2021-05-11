@@ -23,6 +23,6 @@
   "homepage": "https://github.com/eu-vinnom/ClassAppChallenge#readme",
   "dependencies": {
     "google-libphonenumber": "^3.2.7",
-    "lodash": "^4.17.15"
+    "lodash": "^4.17.21"
   }
 }
